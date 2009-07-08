@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="ant-contrib/1.0-b3/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjrt.jar"/>
+	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjweaver.jar"/>
+	<classpathentry exported="true" kind="lib" path="bdbxml/2.4.16/db.jar"/>
+	<classpathentry exported="true" kind="lib" path="bdbxml/2.4.16/dbxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons/jexl/1.1/commons-jexl.jar"/>
+	<classpathentry exported="true" kind="lib" path="jaxen/1.1/jaxen.jar"/>
+	<classpathentry exported="true" kind="lib" path="joda-time/1.6/joda-time.jar"/>
+	<classpathentry exported="true" kind="lib" path="junit/4.4/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="log4j/1.2.15/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="perf4j/0.9.9/perf4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="picocolo/1.04/piccolo.jar"/>
+	<classpathentry exported="true" kind="lib" path="relaxngDatatype/20020414/relaxngDatatype.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-dom4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-jdom.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-s9api.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-sql.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-xom.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-xpath.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9-xqj.jar"/>
+	<classpathentry exported="true" kind="lib" path="saxon/b9.1.0.5/saxon9.jar"/>
+	<classpathentry exported="true" kind="lib" path="vtd-xml/2.4/vtd-xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/serializer.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xalan.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xsltc.jar"/>
+	<classpathentry exported="true" kind="lib" path="xerces/2.9.0/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/jsr173_1.0_api.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/resolver.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xbean_xpath.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xbean.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xmlbeans-qname.jar"/>
+	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xmlpublic.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="lib" path="generated/org.ddialliance.ddi_3_0_20080428.xml.xmlbeans.jar"/>
+	<classpathentry kind="lib" path="generated/org.ddialliance.ddieditor.model.xmlbeans.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>

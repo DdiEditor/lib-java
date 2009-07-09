@@ -441,11 +441,4 @@ Export-Package: com.bluecast.io,
  org.xml.sax,
  org.xml.sax.ext,
  org.xml.sax.helpers,
- repackage,
- schemaorg_apache_xmlbeans.system.s1D6138D9E6B323DA35B08156A8FA29EE,
- schemaorg_apache_xmlbeans.system.s25B10A0D49FE8D6A7DE4D4CC08812FCC,
- schemaorg_apache_xmlbeans.system.sDDA293D00735041EB185E11E082BF274,
- schemaorg_apache_xmlbeans.system.sXMLCONFIG,
- schemaorg_apache_xmlbeans.system.sXMLLANG,
- schemaorg_apache_xmlbeans.system.sXMLSCHEMA,
- schemaorg_apache_xmlbeans.system.sXMLTOOLS
+ repackage

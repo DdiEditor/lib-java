@@ -36,7 +36,7 @@
 		</copy>
 
 		<copy todir="${gen.dir}" overwrite="yes">
-			<fileset dir="${basedir}/../org.ddialliance.ddi_3_0.xml.xmlbeans/xmllib">
+			<fileset dir="${basedir}/../ddi-3-xmlbeans/xmllib">
 				<include name="*.jar" />
 			</fileset>
 		</copy>

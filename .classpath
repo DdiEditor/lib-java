@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="source"/>
 	<classpathentry exported="true" kind="lib" path="ant-contrib/1.0-b3/lib/commons-logging-1.0.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjrt.jar"/>
 	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjweaver.jar"/>
-	<classpathentry exported="true" kind="lib" path="bdbxml/2.4.16/db.jar"/>
-	<classpathentry exported="true" kind="lib" path="bdbxml/2.4.16/dbxml.jar"/>
 	<classpathentry exported="true" kind="lib" path="commons/jexl/1.1/commons-jexl.jar"/>
 	<classpathentry exported="true" kind="lib" path="jaxen/1.1/jaxen.jar"/>
 	<classpathentry exported="true" kind="lib" path="joda-time/1.6/joda-time.jar"/>
@@ -36,10 +37,11 @@
 	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xmlpublic.jar"/>
 	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom.jar"/>
 	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom14.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry kind="src" path="source"/>
-	<classpathentry kind="lib" path="generated/org.ddialliance.ddi_3_0_20080428.xml.xmlbeans.jar"/>
-	<classpathentry kind="lib" path="generated/org.ddialliance.ddieditor.model.xmlbeans.jar"/>
+	<classpathentry exported="true" kind="lib" path="generated/org.ddialliance.ddi_3_0_20080428.xml.xmlbeans.jar"/>
+	<classpathentry exported="true" kind="lib" path="generated/org.ddialliance.ddieditor.model.xmlbeans.jar"/>
+	<classpathentry exported="true" kind="lib" path="nebula/0.9.0/org.eclipse.nebula.widgets.cdatetime_0.14.0.HEAD.jar"/>
+	<classpathentry exported="true" kind="lib" path="nebula/0.9.0/org.eclipse.nebula.cwt_0.9.0.HEAD.jar"/>
+	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/db.jar"/>
+	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/dbxml.jar"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>

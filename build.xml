@@ -29,13 +29,13 @@
 		<mkdir dir="${gen.dir}" />
 		<mkdir dir="${build.dir}" />
 
-		<copy todir="${gen.dir}" overwrite="yes">
+		<copy todir="${gen.dir}" overwrite="yes" verbose="true">
 			<fileset dir="${basedir}/../ddieditor-xmlbeans/xmllib">
 				<include name="*.jar" />
 			</fileset>
 		</copy>
 
-		<copy todir="${gen.dir}" overwrite="yes">
+		<copy todir="${gen.dir}" overwrite="yes" verbose="true">
 			<fileset dir="${basedir}/../ddi-3-xmlbeans/xmllib">
 				<include name="*.jar" />
 			</fileset>

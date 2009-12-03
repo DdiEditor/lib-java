@@ -1,8 +1,0 @@
-Compiled version of source xmlbeans 2.3.0, to generate appropiate version of saxon 8.1
-
-Note, live url: http://wiki.apache.org/xmlbeans/XmlBeansFaq
-If XPath/XQuery support is required, the xbean_xpath.jar contains the XPath "glue" code and needs to be included on the classpath. 
-Then, depending on the version of XMLBeans in use, the following are also required: 
-jaxen.jar for XMLBeans V1 (only supports XPath, no XQuery), 
-saxon8.jar for XMLBeans V2.0.0 and V2.1.0 (the only version supported is Saxon 8.1.1), 
-saxon8.jar and saxon8-dom.jar for XMLBeans built from SVN head (this supports Saxon >= 8.6.1).

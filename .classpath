@@ -20,7 +20,6 @@
 	<classpathentry exported="true" kind="lib" path="relaxngDatatype/20020414/relaxngDatatype.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/serializer.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xalan.jar"/>
-	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xml-apis.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xsltc.jar"/>
 	<classpathentry exported="true" kind="lib" path="xerces/2.9.0/xercesImpl.jar"/>
 	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/jsr173_1.0_api.jar"/>

@@ -422,4 +422,4 @@ Export-Package: com.bluecast.io,
  schemaorg_apache_xmlbeans.system.sXMLLANG,
  schemaorg_apache_xmlbeans.system.sXMLSCHEMA,
  schemaorg_apache_xmlbeans.system.sXMLTOOLS
-Require-Bundle: org.eclipse.swt;bundle-version="3.5.1"
+Require-Bundle: org.eclipse.swt;bundle-version="3.5.2"

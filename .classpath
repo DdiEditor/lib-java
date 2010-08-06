@@ -16,23 +16,21 @@
 	<classpathentry exported="true" kind="lib" path="joda-time/1.6/joda-time.jar"/>
 	<classpathentry exported="true" kind="lib" path="junit/4.4/junit.jar"/>
 	<classpathentry exported="true" kind="lib" path="log4j/1.2.15/log4j-1.2.15.jar"/>
-	<classpathentry exported="true" kind="lib" path="picocolo/1.04/piccolo.jar"/>
 	<classpathentry exported="true" kind="lib" path="relaxngDatatype/20020414/relaxngDatatype.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/serializer.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xalan.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xsltc.jar"/>
 	<classpathentry exported="true" kind="lib" path="xerces/2.9.0/xercesImpl.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/jsr173_1.0_api.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/resolver.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xbean_xpath.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xbean.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xmlbeans-qname.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmlbeans/2.4.0/xmlpublic.jar"/>
 	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom.jar"/>
 	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom14.jar"/>
-	<classpathentry exported="true" kind="lib" path="nebula/0.9.0/org.eclipse.nebula.widgets.cdatetime_0.14.0.HEAD.jar"/>
-	<classpathentry exported="true" kind="lib" path="nebula/0.9.0/org.eclipse.nebula.cwt_0.9.0.HEAD.jar"/>
 	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/db.jar"/>
 	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/dbxml.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/resolver.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/xbean.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/xmlbeans-qname.jar"/>
+	<classpathentry kind="lib" path="xmlbeans/2.5.0/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="picocolo/1.04/piccolo.jar"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>

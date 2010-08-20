@@ -6,7 +6,6 @@
 	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjrt.jar"/>
 	<classpathentry exported="true" kind="lib" path="aspectj/1.6.1/aspectjweaver.jar"/>
 	<classpathentry exported="true" kind="lib" path="perf4j/0.9.12/perf4j-0.9.12.jar"/>
-	<classpathentry exported="true" kind="lib" path="vtd-xml/2.6/vtd-xml.jar"/>
 	<classpathentry exported="true" kind="lib" path="saxon/9.2.0.2/saxon9he.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>

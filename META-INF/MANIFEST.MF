@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: lib-java
 Bundle-SymbolicName: lib-java
-Bundle-Version: 0.3.0
+Bundle-Version: 0.3.1
 Bundle-Activator: org.ddialliance.lib.osgi.Activator
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6

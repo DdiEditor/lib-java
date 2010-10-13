@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="xsom/20100328-nightly/xsom.jar"/>
+	<classpathentry exported="true" kind="lib" path="xsom/20100328-nightly/xsom14.jar"/>
 	<classpathentry exported="true" kind="lib" path="generated/ddi-3-xmlbeans.jar"/>
 	<classpathentry exported="true" kind="lib" path="generated/org.ddialliance.ddieditor.model.xmlbeans.jar"/>
 	<classpathentry exported="true" kind="lib" path="commons/logging/1.1.1/commons-logging-1.1.1.jar"/>
@@ -20,8 +22,6 @@
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xalan.jar"/>
 	<classpathentry exported="true" kind="lib" path="xalan/2.7.1/xsltc.jar"/>
 	<classpathentry exported="true" kind="lib" path="xerces/2.9.0/xercesImpl.jar"/>
-	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom.jar"/>
-	<classpathentry exported="true" kind="lib" path="xsom/20060901/xsom14.jar"/>
 	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/db.jar"/>
 	<classpathentry exported="true" kind="lib" path="bdbxml/2.5.13/dbxml.jar"/>
 	<classpathentry kind="lib" path="xmlbeans/2.5.0/jsr173_1.0_api.jar"/>

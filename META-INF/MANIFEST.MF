@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: lib-java
 Bundle-SymbolicName: lib-java
-Bundle-Version: 0.4.3
+Bundle-Version: 0.5.0
 Bundle-Activator: org.ddialliance.lib.osgi.Activator
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
@@ -37,11 +37,11 @@ Bundle-ClassPath: commons/jexl/1.1/commons-jexl.jar,
  bdbxml/2.5.16/db.jar,
  bdbxml/2.5.16/dbxml.jar,
  jug/3.1.0/java-uuid-generator-3.1.0.jar,
+ commons/io/2.0/commons-io-2.0.jar,
+ commons/lang/2.5/commons-lang-2.5.jar,
  jamwiki/0.9.3/bliki-core-3.0.12-SNAPSHOT.jar,
  jamwiki/0.9.3/bliki-parser-0.9.3.jar,
- jamwiki/0.9.3/jamwiki-core-0.9.3.jar,
- commons/io/2.0/commons-io-2.0.jar,
- commons/lang/2.5/commons-lang-2.5.jar
+ jamwiki/0.9.3/jamwiki-core-0.9.3.jar
 Export-Package: com.bluecast.io,
  com.bluecast.util,
  com.bluecast.xml,

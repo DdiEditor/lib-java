@@ -26,4 +26,4 @@ along with lib-java. If not, see <http://www.gnu.org/licenses/>.
 
 Building:
 The project uses an ANT build file
-Buildfile: build.xml
+Buildfile: dda-build.xml
